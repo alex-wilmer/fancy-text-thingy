@@ -1,0 +1,19 @@
+{
+  "name": "fancy-text",
+  "version": "0.1.0",
+  "description": "Some fancy text component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alex-wilmer/fancy-text-thingy.git"
+  },
+  "author": "Alex Wilmer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alex-wilmer/fancy-text-thingy/issues"
+  },
+  "homepage": "https://github.com/alex-wilmer/fancy-text-thingy#readme"
+}
