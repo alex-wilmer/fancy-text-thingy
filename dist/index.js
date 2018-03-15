@@ -1,7 +1,9 @@
+let React = require('react');
+
 let FancyText = () => React.createElement(
-  "div",
+  'div',
   null,
-  "lalalala hello world this is my fancy text"
+  'lalalala hello world this is my fancy text'
 );
 
 module.exports = FancyText;
