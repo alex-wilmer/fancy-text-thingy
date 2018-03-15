@@ -1,6 +1,6 @@
 {
   "name": "really-really-fancy-text",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Some fancy text component",
   "main": "index.js",
   "scripts": {
